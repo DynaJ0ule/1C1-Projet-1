@@ -18,3 +18,16 @@
     border-width: 15px;
     border-color: orange;
 }
+
+#ImageJules{
+    border-style: solid;
+    border-width: 10px;
+    border-color: orange;
+}
+
+#BioJules{
+    border-left-style: double;
+    padding-left:10px;
+    border-width: 10px;
+    border-color: orange;
+}
