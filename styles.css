@@ -75,3 +75,11 @@
     font-style: italic;
     font-size: 30px;
 }
+
+#TableauProjets{
+    border: 3px solid black;
+}
+
+#TableauProjets img{
+    width: 50px;
+}
