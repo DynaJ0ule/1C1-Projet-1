@@ -1,0 +1,33 @@
+#PageJules{
+    background-color: darkolivegreen;
+    color: rgb(0, 0, 53);
+}
+
+#PageJules h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: goldenrod;
+    text-decoration: double underline;
+    text-decoration-color: orange;
+}
+
+#SectionListe{
+    width:fit-content;
+    padding-right: 100px;
+    padding-left: 50px;
+    border-style: ridge;
+    border-width: 15px;
+    border-color: orange;
+}
+
+#ImageJules{
+    border-style: solid;
+    border-width: 10px;
+    border-color: orange;
+}
+
+#BioJules{
+    border-left-style: double;
+    padding-left:10px;
+    border-width: 10px;
+    border-color: orange;
+}
