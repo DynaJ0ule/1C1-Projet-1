@@ -31,3 +31,11 @@
     border-width: 10px;
     border-color: orange;
 }
+
+#TableauProjets{
+    border: 3px solid black;
+}
+
+#TableauProjets img{
+    width: 50px;
+}
