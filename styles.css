@@ -31,3 +31,47 @@
     border-width: 10px;
     border-color: orange;
 }
+#omar-name{
+    color: darkblue;
+    font-weight: bold;
+    font-size: 40px;
+}
+#omar h2{
+    color: darkgreen;
+    font-style: italic;
+    font-size: 30px;
+}
+#omar{
+    background-color: lightsteelblue;
+}
+#omar-paragraphe{
+    border: 5px solid darkblue;
+    padding: 25px;
+    margin: 20px;
+    background-color: lightcyan;
+    font-size: large;
+}
+#omar-photo{
+    border: 5px solid darkblue;
+    padding: 10px;
+    margin: 10px;
+}
+#omar-list{
+    background-color: lightcyan;
+    border: 5px solid darkblue;
+    padding: 25px;
+    margin: 20px;
+    font-size: large;
+}
+#omar-email{
+    background-color: lightcyan;
+    border: 5px solid darkblue;
+    padding: 25px;
+    margin: 20px;
+    font-size: large;
+}
+#omar-contact{
+    color: darkgreen;
+    font-style: italic;
+    font-size: 30px;
+}
